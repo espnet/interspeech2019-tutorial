@@ -1,0 +1,25 @@
+/*This file contains any manual css for this page that needs to override the global styles.
+This is only required when different pages style the same element differently. This is just
+a hack to deal with our current css styles and no new styling should be added in this file.*/
+
+#ipython-main-app {
+    position: relative;
+}
+#jupyter-main-app {
+    position: relative;
+}
+
+div.cell.text_cell.selected.jupyter-soft-selected .input_prompt {
+    border-left: none !important;
+}
+
+div.prompt {
+    font-size: 60%;
+    border-top: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding-right: 3px;
+    min-width: 10ex;
+    width: 10ex !important;
+i
