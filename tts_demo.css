@@ -1,0 +1,68 @@
+/* basic font and background */
+.rise-enabled .reveal
+{
+    background-color: #ffffff;
+    font-family: "Hiragino Sans";
+}
+
+/* title */
+.rise-enabled .reveal .slides h1 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 200%; margin-bottom: 0.3em}
+.rise-enabled .reveal .slides h2 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 150%; margin-bottom: 0.3em}
+.rise-enabled .reveal .slides h3 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 150%; margin-bottom: 0.3em}
+.rise-enabled .reveal .slides h4 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 120%; margin-bottom: 0.3em}
+
+/* text cell */
+div.text_cell_render
+{
+    padding: 0.1em 0.5em 0.25em 0.5em;
+}
+
+/* In [*] and Out [*] */
+.rise-enabled .reveal .slides div.prompt
+{
+    font-family: Ricty;
+}
+
+/* code `` */
+.rise-enabled .reveal .slides code
+{
+    font-family: Ricty;
+    font-size: 105%;
+}
+
+/* code cell */
+.rise-enabled .reveal .slides pre
+{
+    font-family: Ricty;
+    font-size: 105%;
+}
+
+/* list */
+.rise-enabled .reveal .slides ul {
+    font-size: 95%;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0.25em;
+    margin-right: 0.1em;
+    padding-top: 0em;
+    padding-bottom: 0.0em;
+    padding-left: 0.9em;
+}
+.rise-enabled .cell li {
+    line-height: 150%;
+}
+
+/* space before sentence */
+.rendered_html * + p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+/* table */
+table{
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+td,th{
+  padding: 10px;
+}
