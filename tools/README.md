@@ -1,4 +1,4 @@
-# INTERSPEECH2019 Tutorial materials
+# How to setup Jupyter notebook presentation wiht RISE
 
 ## Setup
 
