@@ -1,0 +1,7 @@
+model-module: custom:ASRTransformer  # module_name:class_name
+label-smoothing: 0.2                 # model-specific option
+
+batch-size: 8
+epochs: 5
+opt: adadelta
+report-interval-iters: 4
