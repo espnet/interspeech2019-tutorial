@@ -12,7 +12,7 @@ https://forms.gle/RhUaU5437sx5dsmAA
 
 ## Slides
 
-1. [Lecture]()
+1. [Lecture](https://drive.google.com/open?id=1YRwQ9S2PmRCp5WBcNufAhcqIKtmREkfn)
 2. [TTS demonstration](https://nbviewer.jupyter.org/format/slides/github/espnet/interspeech2019-tutorial/blob/master/notebooks/interspeech2019_tts/interspeech2019_tts.ipynb)
 3. [ASR demonstration](https://nbviewer.jupyter.org/format/slides/github/espnet/interspeech2019-tutorial/blob/master/notebooks/interspeech2019_asr/interspeech2019_asr.ipynb)
 
